@@ -4,6 +4,9 @@ require 'spec_helper'
 # or read http://rspec-puppet.com/tutorial/
 describe 'template' do
   it do
-    should contain_anchor('Hello_World')
+    should contain_package('Picturelife').with({
+      :ensure => 'installed',
+      :provider => 'appdmg'
+    })
   end
 end
