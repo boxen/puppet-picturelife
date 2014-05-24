@@ -1,5 +1,5 @@
 # Picturelife
-[![Build Status](https://travis-ci.org/takashiyoshida/puppet-picturelife.svg?branch=master)](https://travis-ci.org/takashiyoshida/puppet-picturelife)
+[![Build Status](https://travis-ci.org/boxen/puppet-picturelife.svg?branch=master)](https://travis-ci.org/boxen/puppet-picturelife)
 
 Installs [Picturelife](https://picturelife.com) on your Mac.
 
