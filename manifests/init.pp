@@ -1,4 +1,8 @@
-# This is a placeholder class.
+# Public: Install Picturelife
+#
+# Usage:
+#
+#   include picturelife
 class picturelife {
   package { 'Picturelife':
     ensure   => installed,
